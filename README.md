@@ -1,5 +1,35 @@
-# Exploratory_data_analysis_unsupervised_model
+The Sparks Foundation Tasks
 
+
+This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+
+Internship Category - Data Science and Business Analytics
+Internship Duration - 1 Month
+Internship Type - Work from Home
+In this internship, we were provided a total of 2 Tasks and I was able to successfully complete all the 2 tasks within the given time-frame.
+
+
+
+# Task-2 : Exploratory Data Analysis unsupervised learning model
 
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
 Use R or Python or perform this task.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
